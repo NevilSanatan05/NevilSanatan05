@@ -7,6 +7,7 @@
 🚀 **Tech Stack:**  
 HTML
 CSS
+TAILWIND CSS
 JAVASCRIPT
 
 🔗 **Find me on:**

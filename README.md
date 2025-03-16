@@ -5,9 +5,9 @@
 🔹 Passionate about **HTML, CSS, JavaScript, and jQuery**  
 🔹 Love creating **responsive & high-performance websites**  
 
+---
 
-
-<h2>🚀 **Tech Stack:**  </h2>
+<h2>🚀 Tech Stack:  </h2>
 
 ### 🖥 Programming Languages:
 <p>
@@ -28,7 +28,19 @@
 <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB" width="50" height="70">
 </p>
 
+---
 
+## 📊 GitHub Stats:
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NevilSanatan05&theme=dark&hide_border=false" alt="GitHub Streak">
+</p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=NevilSanatan05&show_icons=true&theme=dark" alt="GitHub Stats">
+</p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NevilSanatan05&layout=compact&theme=dark" alt="Top Languages">
+</p>
 
+---
 
 ⭐ **If you like my work, consider giving my repositories a star!** 🌟  

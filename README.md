@@ -34,12 +34,6 @@
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NevilSanatan05&theme=dark&hide_border=false" alt="GitHub Streak">
 </p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=NevilSanatan05&show_icons=true&theme=dark" alt="GitHub Stats">
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NevilSanatan05&layout=compact&theme=dark" alt="Top Languages">
-</p>
 
 ---
 

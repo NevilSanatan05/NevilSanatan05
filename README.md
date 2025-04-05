@@ -4,7 +4,7 @@
 🔹 **Frontend Developer | Web Enthusiast**  
 🔹 Passionate about **HTML, CSS, JavaScript, and jQuery**  
 🔹 Love creating **responsive & high-performance websites**  
-🔹 Student at **Bharati Vidyapeeth College of Engineering, Navi Mumbai (TFWS Quota)**  
+🔹 Student at **Bharati Vidyapeeth College of Engineering, Navi Mumbai **  
 
 ---
 

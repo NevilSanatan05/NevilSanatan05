@@ -4,7 +4,16 @@
 🔹 **Frontend Developer | Web Enthusiast**  
 🔹 Passionate about **HTML, CSS, JavaScript, and jQuery**  
 🔹 Love creating **responsive & high-performance websites**  
+🔹 Student at **Bharati Vidyapeeth College of Engineering, Navi Mumbai (TFWS Quota)**  
 
+---
+
+## 🏆 Achievements
+- 🥇 Winner of **BV Hacks 1.0 Hackathon**
+- 🏆 Won a Hackathon in **1st year of B.Tech**
+- ⭐ Active contributor in **college tech events & hackathons**
+
+---
 
 <h2>🚀 Tech Stack:  </h2>
 
@@ -38,13 +47,20 @@
 
 ## 📫 Contact Me:
 <p>
-<a href="mailto:nevilbarick69@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/nevil-sanatan-barick-6980772b9/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://x.com/BarickNevi48451" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
-<a href="https://www.instagram.com/nevilbarick/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="mailto:nevilbarick69@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/in/nevil-sanatan-barick-6980772b9/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="https://x.com/BarickNevi48451" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white">
+</a>
+<a href="https://www.instagram.com/nevilbarick/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
 </p>
 
 ---
 
-⭐ **If you like my work, consider giving my repositories a star!** 🌟  
-
+⭐ **If you like my work, consider giving my repositories a star!** 🌟

@@ -21,8 +21,8 @@ I’m a passionate coder who loves building interactive web experiences. Current
 ---
 
 ## 🚧 Current Projects  
-- [Eventify]([https://eventify-ten-phi.vercel.app/]): A centralized platform for college event management.  
-- [NexusFinTrack]([https://fintech-plum.vercel.app/]): Personal finance tracking SaaS.
+- [Eventify](https://eventify-ten-phi.vercel.app/): A centralized platform for college event management.  
+- [NexusFinTrack](https://fintech-plum.vercel.app/): Personal finance tracking SaaS.
 
 ---
 

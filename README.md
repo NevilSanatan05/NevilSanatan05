@@ -21,8 +21,8 @@ I’m a passionate coder who loves building interactive web experiences. Current
 ---
 
 ## 🚧 Current Projects  
-- [Eventify](https://github.com/NevilSanatan05/Eventify): A centralized platform for college event management.  
-- [NexusFinTrack](https://github.com/NevilSanatan05/NexusFinTrack): Personal finance tracking SaaS.
+- [Eventify]([https://eventify-ten-phi.vercel.app/]): A centralized platform for college event management.  
+- [NexusFinTrack]([https://fintech-plum.vercel.app/]): Personal finance tracking SaaS.
 
 ---
 
@@ -72,8 +72,9 @@ Contributed bug fixes and features to projects like React Router and Firebase SD
 </p>
 
 <p>
-  ![trophy](https://github-profile-trophy.vercel.app/?username=NevilSanatan05&theme=radical)
+  <img src="https://github-profile-trophy.vercel.app/?username=NevilSanatan05&theme=radical" alt="GitHub Trophy" />
 </p>
+
 
 ---
 

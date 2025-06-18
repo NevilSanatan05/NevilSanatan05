@@ -55,7 +55,7 @@ I’m a passionate coder who loves building interactive web experiences. Current
 </p>
 
 
-## 🧰 DevOps & Design Tools  
+### 🧰 DevOps & Design Tools  
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docker" width="60" height="60" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="60" height="60" />

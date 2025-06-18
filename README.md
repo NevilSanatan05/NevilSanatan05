@@ -54,6 +54,16 @@ I’m a passionate coder who loves building interactive web experiences. Current
 <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB" width="50" height="70" />
 </p>
 
+
+## 🧰 DevOps & Design Tools  
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docker" width="60" height="60" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="60" height="60" />
+</p>
+
+- 🐳 **Docker**: Packaging, containerization, and deployment of my frontend projects  
+- 🎨 **Figma**: UI/UX design and prototyping for apps and websites
+
 ---
 
 ## 🛠️ Tools I Use  

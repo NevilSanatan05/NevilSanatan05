@@ -61,8 +61,6 @@ I’m a passionate coder who loves building interactive web experiences. Current
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="60" height="60" />
 </p>
 
-- 🐳 **Docker**: Packaging, containerization, and deployment of my frontend projects  
-- 🎨 **Figma**: UI/UX design and prototyping for apps and websites
 
 ---
 
@@ -90,9 +88,6 @@ I love hiking and photography — capturing the world one snapshot at a time!
 
 ---
 
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
-
----
 
 ## 📫 Contact Me:
 <p>

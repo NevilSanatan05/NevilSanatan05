@@ -81,9 +81,6 @@ Contributed bug fixes and features to projects like React Router and Firebase SD
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NevilSanatan05&theme=dark&hide_border=false" alt="GitHub Streak" />
 </p>
 
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=NevilSanatan05&theme=radical" alt="GitHub Trophy" />
-</p>
 
 
 ---

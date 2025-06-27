@@ -1,51 +1,20 @@
-# NevilSanatan05  
-## Hi, I'm Nevil Sanatan Barick! 👋  
+I'm an aspiring Full Stack Developer passionate about building modern web applications that blend performance with great user experiences. I primarily work on the frontend using JavaScript, with frameworks like React.js and Next.js.
 
-🔹 **Frontend Developer | Web Enthusiast**  
-🔹 Passionate about **HTML, CSS, JavaScript, and jQuery**  
-🔹 Love creating **responsive & high-performance websites**  
-🔹 Student at **Bharati Vidyapeeth College of Engineering, Navi Mumbai**  
+In addition to frontend development, I’m also exploring the world of data science with Python. I enjoy working with libraries like NumPy, Pandas, Matplotlib, and Seaborn to analyze data and uncover insights. I’m comfortable working with MySQL and understand how to manage and query relational data effectively.
+
+Currently, I'm expanding my backend development skills by learning Node.js and Express.js, and working with MongoDB for building scalable, data-driven full-stack applications.
 
 ---
 
-## 👨‍💻 About Me  
-I’m a passionate coder who loves building interactive web experiences. Currently exploring advanced React patterns and backend integration. Always excited to learn new technologies and collaborate on innovative projects!
+🚀 Skills Snapshot :  <br> 
 
----
+Frontend :- JavaScript, React.js, Next.js, HTML, CSS, Tailwind CSS
 
-<h2>🚀 Tech Stack:</h2>
+Data Science :-  Python, NumPy, Pandas, Matplotlib, Seaborn
 
-### 🖥 Programming Languages:
-<p>
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="50" height="50" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="50" height="50" />
-</p>
+Database :-  MySQL
 
-### 🎨 Frontend Development:
-<p>
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="50" height="60" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" width="50" height="60" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" width="50" height="60" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="ReactJS" width="50" height="60" />
-</p>
+Tools :-  Git, GitHub, VS Code, Cursor AI , Vercel, Docker, Figma , Canvas
 
-### 🗄️ Database:
-<p>
-<img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB" width="50" height="70" />
-</p>
-
-
-### 🧰 DevOps & Design Tools  
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docker" width="60" height="60" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="60" height="60" />
-</p>
-
-
----
-
-
-## 📊 GitHub Stats:
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NevilSanatan05&theme=dark&hide_border=false" alt="GitHub Streak" />
-</p>
+Want to explore my projects and work in detail?  
+👉 [**Visit My Portfolio**](https://nevilportfolio-gray.vercel.app/)

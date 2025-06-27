@@ -20,19 +20,6 @@ I’m a passionate coder who loves building interactive web experiences. Current
 
 ---
 
-## 🚧 Current Projects  
-- [Eventify](https://eventify-ten-phi.vercel.app/): A centralized platform for college event management.  
-- [NexusFinTrack](https://fintech-plum.vercel.app/): Personal finance tracking SaaS.
-
----
-
-## 🎯 Learning Path  
-- Deepening knowledge of Node.js and Express  
-- Exploring TypeScript and Next.js  
-- Improving testing with Jest & React Testing Library
-
----
-
 <h2>🚀 Tech Stack:</h2>
 
 ### 🖥 Programming Languages:
@@ -64,15 +51,6 @@ I’m a passionate coder who loves building interactive web experiences. Current
 
 ---
 
-## 🛠️ Tools I Use  
-VS Code | Git | Postman | Chrome DevTools | Figma
-
----
-
-## 🤝 Open Source Contributions  
-Contributed bug fixes and features to projects like React Router and Firebase SDK.
-
----
 
 ## 📊 GitHub Stats:
 <p>
@@ -82,12 +60,6 @@ Contributed bug fixes and features to projects like React Router and Firebase SD
 
 
 ---
-
-## 🎉 Fun Fact  
-I love hiking and photography — capturing the world one snapshot at a time!
-
----
-
 
 ## 📫 Contact Me:
 <p>

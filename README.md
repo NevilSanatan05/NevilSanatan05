@@ -6,7 +6,7 @@ Currently, I'm expanding my backend development skills by learning Node.js and E
 
 ---
 
-🚀 Skills Snapshot :  <br> 
+🚀 Skills Snapshot :  <br>  
 
 Frontend :- JavaScript, React.js, Next.js, HTML, CSS, Tailwind CSS
 

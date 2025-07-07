@@ -1,4 +1,4 @@
-I'm an aspiring Full Stack Developer passionate about building modern web applications that blend performance with great user experiences. I primarily work on the frontend using JavaScript, with frameworks like React.js and Next.js.
+I'm an aspiring Full Stack Developer passionate about building modern web applications that blend performance with great user experiences. I primarily work on the frontend using JavaScript, with frameworks like React.js.
 
 In addition to frontend development, I’m also exploring the world of data science with Python. I enjoy working with libraries like NumPy, Pandas, Matplotlib, and Seaborn to analyze data and uncover insights. I’m comfortable working with MySQL and understand how to manage and query relational data effectively.
 

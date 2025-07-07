@@ -8,7 +8,7 @@ Currently, I'm expanding my backend development skills by learning Node.js and E
 
 🚀 Skills Snapshot :  <br>  
 
-Frontend :- JavaScript, React.js, Next.js, HTML, CSS, Tailwind CSS
+Frontend :- JavaScript, React.js, HTML, CSS, Tailwind CSS
 
 Data Science :-  Python, NumPy, Pandas, Matplotlib, Seaborn
 

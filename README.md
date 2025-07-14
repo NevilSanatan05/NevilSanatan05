@@ -10,11 +10,11 @@ Currently, I'm expanding my backend development skills by learning Node.js and E
 
 Frontend :- JavaScript, React.js, HTML, CSS, Tailwind CSS
 
-Data Science :-  Python, NumPy, Pandas, Matplotlib, Seaborn
+Data Science :-  Python, NumPy, Pandas, Matplotlib, Seaborn 
 
 Database :-  MySQL
 
-Tools :-  Git, GitHub, VS Code, Cursor AI , Vercel, Docker, Figma , Canvas
+Tools :-  Git, GitHub, VS Code, Cursor AI , Vercel, Docker, Figma , Canvas , Trae 
 
 Want to explore my projects and work in detail?  
 👉 [**Visit My Portfolio**](https://nevilportfolio-gray.vercel.app/)

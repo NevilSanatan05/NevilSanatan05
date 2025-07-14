@@ -14,7 +14,7 @@ Data Science :-  Python, NumPy, Pandas, Matplotlib, Seaborn
 
 Database :-  MySQL
 
-Tools :-  Git, GitHub, VS Code, Cursor AI , Vercel, Docker, Figma , Canvas , Trae 
+Tools :-  Git, GitHub, VS Code, Cursor AI , Vercel, Docker, Trae 
 
 Want to explore my projects and work in detail?  
 👉 [**Visit My Portfolio**](https://nevilportfolio-gray.vercel.app/)
